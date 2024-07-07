@@ -1,0 +1,31 @@
+table{
+    padding: 20px 0;
+    text-align: left;
+    
+}
+.d1{
+    font-size: 9px;
+    padding-right: 30px;
+}
+.d2{
+    font-size: 9px;
+    padding-right: 30px;
+}
+.d3{
+    font-size: 9px;
+}
+p{
+    font-size: 10px;
+}
+.image{
+    background-image: url(/Assets/Image/image-header-desktop.jpg);
+    height: 430px;
+    width: 540px;
+    background-size: 200px;
+    background-repeat: no-repeat;
+    
+    
+}
+.body{
+   position: relative;
+}
